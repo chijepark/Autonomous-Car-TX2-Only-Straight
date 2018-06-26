@@ -1,0 +1,8 @@
+prefix=/home/nvidia/aces_car/v1/install
+
+Name: car_v1
+Description: Description of car_v1
+Version: 0.1.0
+Cflags: -I/home/nvidia/aces_car/v1/install/include
+Libs: -L/home/nvidia/aces_car/v1/install/lib -lcar_v1
+Requires: roscpp std_msgs sensor_msgs

@@ -1,0 +1,2 @@
+car_v1
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/aces_car/v1/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/aces_car/v1/install -G Unix Makefiles
